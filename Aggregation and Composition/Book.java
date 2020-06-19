@@ -1,7 +1,9 @@
 //Book Class
-public class Book {
+
+    public class Book {
     private String title;
     private String author;
+//Constructor
 
     public Book(String title, String author) {
         this.title = title;
