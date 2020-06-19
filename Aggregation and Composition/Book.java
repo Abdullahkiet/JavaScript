@@ -1,4 +1,4 @@
-//Book Clas
+//Book Class
 public class Book {
     private String title;
     private String author;
