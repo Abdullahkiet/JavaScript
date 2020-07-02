@@ -1,2 +1,2 @@
 # JavaScript
-Learning JavaScript from youtube
+Learning JavaScript from youtube and
