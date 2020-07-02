@@ -1,2 +1,2 @@
 # JavaScript
-Learning JavaScript from youtube, freecodecamp and blog
+Learning JavaScript from youtube, freecodecamp and blogs.
